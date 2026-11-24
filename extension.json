@@ -1,0 +1,10 @@
+{
+  "id": "matn.theme.matrix_green",
+  "name": "Matrix Green Theme",
+  "version": "1.0.0",
+  "author": "Matn Team",
+  "description": "Phosphor CRT monochrome hacker green theme inspired by The Matrix",
+  "category": "themes",
+  "type": "theme",
+  "repository": "https://github.com/matn-extensions/theme-matrix-green"
+}

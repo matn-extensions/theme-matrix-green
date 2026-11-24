@@ -1,0 +1,16 @@
+{
+  "name": "Matrix Green",
+  "type": "dark",
+  "author": "Matn Team",
+  "version": "1.0.0",
+  "colors": {
+    "bg": "#0A0F0A",
+    "barBg": "#0F190F",
+    "text": "#50FA7B",
+    "muted": "#28783C",
+    "accent": "#32FF64",
+    "activeLine": "#142814",
+    "cursor": "#32FF64",
+    "border": "#1E3C1E"
+  }
+}
